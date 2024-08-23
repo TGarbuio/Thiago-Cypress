@@ -1,0 +1,15 @@
+{
+    "checkboxes": "https://the-internet.herokuapp.com/checkboxes",
+    "dropdown": "https://the-internet.herokuapp.com/dropdown",
+    "drag_and_drop": "https://the-internet.herokuapp.com/drag_and_drop",
+    "upload": "https://the-internet.herokuapp.com/upload",
+    "login": "https://the-internet.herokuapp.com/login",
+    "redirect": "https://the-internet.herokuapp.com/redirector",
+    "api_restful_dev": "https://api-restful-api.dev/objects",
+    "list_range":"https://api.restful-api.dev/objects?id=3&id=5&id=10",
+    "list_celularID":"https://api.restful-api.dev/objects/7",
+    "update_spec_field":"https://api.restful-api.dev/objects/7",
+    "register_new_cell":"https://api.restful-api.dev/objects",
+    "delete_cell":"https://api.restful-api.dev/objects/6",
+    "update_data":"https://api.restful-api.dev/objects/7"
+}

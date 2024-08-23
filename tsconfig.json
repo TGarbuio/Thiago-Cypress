@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "moduleResolution": "node",
+      "forceConsistentCasingInFileNames": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": false,
+      "rootDir": ".",
+      "lib": ["es6", "dom"],
+        "types": ["cypress", "node"],
+        "baseUrl": ".",
+        "paths": {
+          "@fixtures/*": ["cypress/fixtures/*"]
+        }
+    },
+    "include": ["cypress/**/*.ts"]
+}
